@@ -3,3 +3,4 @@
 [![Actions Status](https://github.com/Sa6a/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Sa6a/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/d61a7dc0cfabb5260561/maintainability)](https://codeclimate.com/github/Sa6a/python-project-lvl1/maintainability)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
+[![asciicast](https://asciinema.org/a/crneRLP99wDla8oZMfwiQuL3J.svg)](https://asciinema.org/a/crneRLP99wDla8oZMfwiQuL3J)
